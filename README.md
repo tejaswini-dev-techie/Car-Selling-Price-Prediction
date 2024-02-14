@@ -25,7 +25,7 @@ We experiment with various machine learning algorithms such as random forests to
 
 We evaluate the performance of each model using appropriate metrics such as mean absolute error (MAE), mean squared error (MSE), and R-squared score. By comparing the performance of different models, we select the one that provides the most accurate predictions for our dataset.
 
-### Usage
+## Usage
 
 To use the predictive model for estimating the selling price of cars, follow these steps:
 
@@ -34,7 +34,7 @@ To use the predictive model for estimating the selling price of cars, follow the
 3. Run the Jupyter notebook car_selling_price_prediction.ipynb to preprocess the data, train the machine learning model, and evaluate its performance.
 4. Once the model is trained and evaluated, you can use it to make predictions on new data by providing the relevant features of the car.
 
-### Future Improvements
+## Future Improvements
 
 Some potential areas for future improvements include:
 1. Feature engineering: Creating new features from existing ones that might improve the predictive power of the model.
